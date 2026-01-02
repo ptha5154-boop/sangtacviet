@@ -1,0 +1,32 @@
+{
+  "name": "SangTacViet",
+  "author": "thangxuan",
+  "version": "1.0",
+  "source": "https://sangtacviet.com",
+  "language": "vi",
+  "type": "novel",
+
+  "search": {
+    "url": "https://sangtacviet.com/?s={keyword}",
+    "list": "article",
+    "name": "h3 a",
+    "link": "h3 a@href",
+    "cover": "img@src"
+  },
+
+  "detail": {
+    "title": "h1",
+    "description": ".entry-content",
+    "cover": "img@src"
+  },
+
+  "chapters": {
+    "list": ".entry-content a",
+    "name": "text",
+    "link": "@href"
+  },
+
+  "content": {
+    "text": ".entry-content"
+  }
+}
