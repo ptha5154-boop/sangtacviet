@@ -9,11 +9,12 @@
       "Tác giả": "ptha5154",
       "đường dẫn": "https://raw.githubusercontent.com/ptha5154-boop/sangtacviet/main/plugin.zip",
       "phiên bản": 1,
-      "Nguồn": "https://sangtacviet.com",
+      "Nguồn": "https://sangtacviet.app", 
       "icon": "https://raw.githubusercontent.com/ptha5154-boop/sangtacviet/main/icon.png",
-      "description": "Nguồn truyện SangTacViet - Hỗ trợ đọc truyện sáng tác Việt Nam.",
+      "description": "Nguồn truyện SangTacViet - Hỗ trợ đọc truyện từ sangtacviet.app",
       "Thể loại": "tiểu thuyết",
       "locale": "vi_VN"
     }
   ]
 }
+
